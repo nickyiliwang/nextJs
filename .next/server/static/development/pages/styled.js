@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 7);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -176,7 +176,21 @@ const Header = () => __jsx("div", {
     lineNumber: 19
   },
   __self: undefined
-}, "Styled")));
+}, "Styled")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/quotes",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21
+  },
+  __self: undefined
+}, __jsx("a", {
+  style: linkStyle,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 22
+  },
+  __self: undefined
+}, "Quotes")));
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
 
@@ -2103,7 +2117,7 @@ function Blog() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 7:
 /*!*******************************!*\
   !*** multi ./pages/styled.js ***!
   \*******************************/

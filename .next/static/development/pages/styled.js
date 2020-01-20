@@ -84,7 +84,21 @@ var Header = function Header() {
       lineNumber: 19
     },
     __self: this
-  }, "Styled")));
+  }, "Styled")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/quotes",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, __jsx("a", {
+    style: linkStyle,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, "Quotes")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -9408,7 +9422,7 @@ function Blog() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 3:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fstyled&absolutePagePath=C%3A%5CUsers%5Cw_yil%5COneDrive%5CDesktop%5CnextJs%5Cpages%5Cstyled.js ***!
   \*********************************************************************************************************************************************/
@@ -9431,5 +9445,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=styled.js.map

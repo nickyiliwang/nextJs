@@ -1,6 +1,6 @@
-import { useRouter } from 'next/router';
-import Markdown from 'react-markdown';
-import Layout from '../../components/MyLayout';
+import { useRouter } from "next/router";
+import Markdown from "react-markdown";
+import Layout from "../../components/MyLayout";
 
 export default () => {
   const router = useRouter();
@@ -22,7 +22,7 @@ And here's the content.
       </div>
       <style jsx global>{`
         .markdown {
-          font-family: 'Arial';
+          font-family: "Arial";
         }
 
         .markdown a {
